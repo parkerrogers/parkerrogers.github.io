@@ -1,0 +1,46 @@
+Device Name,Proc. Name,Proc. Descriptions
+"Radioimmunoassay, Total Triiodothyronine",['84480'],"['Assay, triiodothyronine (t3)']"
+"Biuret (Colorimetric), Total Protein",['84155'],"['Assay of protein, serum']"
+"Haptoglobin, Antigen, Antiserum, Control","['83010', '83012']","['Assay of haptoglobin, quant', 'Assay of haptoglobins']"
+"Cystometer, Electrical Recording","['51725', '51726', '51736', '51741', '51727', '51728', '51729']","['Simple cystometrogram', 'Complex cystometrogram', 'Urine flow measurement', 'Electro-uroflowmetry, first', None, None, None]"
+"Urinometer, Mechanical","['81000', '81001', '81002', '81003']","['Urinalysis, nonauto w/scope', 'Urinalysis, auto w/scope', 'Urinalysis nonauto w/o scope', 'Urinalysis, auto, w/o scope']"
+"Dislodger, Stone, Basket, Ureteral, Metal",['52352'],['Cystouretero w/stone remove']
+"Thermometer, Clinical Mercury",['A4931'],"['Oral thermometer, reusable, any type, each']"
+"Bed, Ac-Powered Adjustable Hospital","['E0265', 'E0266']","['Hospital bed, total electric (head, foot and height adjustments), with any type side rails, with mattress', 'Hospital bed, total electric (head, foot and height adjustments), with any type side rails, without mattress']"
+"Mattress, Air Flotation, Alternating Pressure",['E0277'],['Powered pressure-reducing air mattress']
+"Device, Patient Transfer, Powered","['E0627', 'E0635']","['Seat lift mechanism, electric, any type', 'Patient lift, electric with seat or sling']"
+"Centrifuge, Hematocrit",['85014'],['Hematocrit']
+"Antigen, Cf And / Or Id, Coccidioides Immitis",['86635'],['Coccidioides antibody']
+"Antigens, Histoplasma Capsulatum, All",['87385'],"['Histoplasma capsul ag, eia']"
+"Antisera, All Types, Shigella Spp.",['86771'],['Shigella antibody']
+"Antigens, All Groups, Salmonella Spp.",['86768'],['Salmonella antibody']
+"Antisera, All Groups, Salmonella Spp.",['86768'],['Salmonella antibody']
+"Antisera, All Types, H. Influenza",['86684'],['Hemophilus influenza']
+"Antiserum, Francisella Tularensis",['86668'],['Francisella tularensis']
+"Antigens, Slide And Tube, Francisella Tularensis",['86668'],['Francisella tularensis']
+"Antisera, Fluorescent, Brucella Spp.",['86622'],['Brucella antibody']
+"Antiserum, Positive And Negative Febrile Antigen Control Serum",['86622'],['Brucella antibody']
+"Antigens (Febrile), Agglutination, Brucella Spp.",['86622'],['Brucella antibody']
+"Antiserum, Vibrio Cholerae, All Varieties",['87046'],"['Stool cultr, bacteria, each']"
+"Antisera, Fluorescent, Pseudomonas Aeruginosa",['87798'],"['Detect agent nos, dna, amp']"
+"Conformer, Ophthalmic",['V2628'],['Fabrication and fitting of ocular conformer']
+"Shell, Scleral",['V2627'],['Scleral cover shell']
+"Clip, Tantalum, Ophthalmic",['67105'],['Repair detached retina']
+"Bed, Patient Rotation, Powered",['E0270'],"['Hospital bed, institutional type includes: oscillating, circulating and stryker frame, with mattress']"
+"Pack, Hot Or Cold, Water Circulating","['E0217', 'E0218']","['Water circulating heat pad with pump', 'Fluid circulating cold pad with pump, any type']"
+"System, Communication, Powered","['E2510', 'E2506', 'E2508', 'E2502', 'L8510', 'E2500']","['Speech generating device, synthesized speech, permitting multiple methods of message formulation and multiple methods of device access', 'Speech generating device, digitized speech, using pre-recorded messages, greater than 40 minutes recording time', 'Speech generating device, synthesized speech, requiring message formulation by spelling and access by physical contact with the device', 'Speech generating device, digitized speech, using pre-recorded messages, greater than 8 minutes but less than or equal to 20 minutes recording time', 'Voice amplifier', 'Speech generating device, digitized speech, using pre-recorded messages, less than or equal to 8 minutes recording time']"
+"Bed, Air Fluidized",['E0194'],['Air fluidized bed']
+"Bed, Flotation Therapy, Powered",['E0193'],['Powered air flotation bed (low air loss therapy)']
+"Pad, Heating, Powered",['E0210'],"['Electric heat pad, standard']"
+"Device, Bleeding Time",['85002'],['Bleeding time test']
+"Turbidimetric, Total Protein",['84156'],"['Assay of protein, urine']"
+"Factor B, Antigen, Antiserum, Control",['86160'],"['Complement, antigen']"
+"Antiserum, Positive Control, Blastomyces Dermatitidis",['86612'],['Blastomyces antibody']
+"Assembly, Thigh/Knee/Shank/Ankle/Foot, External","['L5000', 'L5050', 'L5100', 'L5010', 'L5020', 'L5200', 'L5160', 'L5105', 'L5230', 'L5210']","['Partial foot, shoe insert with longitudinal arch, toe filler', 'Ankle, symes, molded socket, sach foot', 'Below knee, molded socket, shin, sach foot', 'Partial foot, molded socket, ankle height, with toe filler', 'Partial foot, molded socket, tibial tubercle height, with toe filler', 'Above knee, molded socket, single axis constant friction knee, shin, sach foot', 'Knee disarticulation (or through knee), molded socket, bent knee configuration, external knee joints, shin, sach foot', 'Below knee, plastic socket, joints and thigh lacer, sach foot', 'Above knee, for proximal femoral focal deficiency, constant friction knee, shin, sach foot', ""Above knee, short prosthesis, no knee joint ('stubbies'), with foot blocks, no ankle joints, each""]"
+"Radioassay, Triiodothyronine Uptake",['84479'],['Assay of thyroid (t3 or t4)']
+"Antigen, Id, Ha, Cep, Entamoeba Histolytica & Rel. Spp.",['87336'],"['Entamoeb hist dispr, ag, eia']"
+"Strip, Temperature, Forehead, Liquid Crystal",['A4931'],"['Oral thermometer, reusable, any type, each']"
+"Alarm, Conditioned Response Enuresis",['S8270'],"['Enuresis alarm, using auditory buzzer and/or vibration device']"
+"Evacuator, Gastro-Urology",['52001'],"['Cystoscopy, removal of clots']"
+"Reagents, Antibody, Legionella, Direct & Indirect Fluorescent",['86684'],['Hemophilus influenza']
+"Eia, Blastomyces Dermatitidis",['86612'],['Blastomyces antibody']

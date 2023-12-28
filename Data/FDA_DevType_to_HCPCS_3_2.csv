@@ -1,0 +1,18 @@
+Device Name,Proc. Name,Proc. Descriptions
+"Device, Vascular, For Promoting Embolization","['75894', '75896']","['X-rays, transcath therapy', 'X-rays, transcath therapy']"
+"Prosthesis, Hip, Constrained, Cemented Or Uncemented, Metal/Polymer",['27130'],['Total hip arthroplasty']
+"Lithotriptor, Extracorporeal Shock-Wave, Urological",['50590'],['Fragmenting of kidney stone']
+Bone Cement,['C1713'],['Anchor/screw for opposing bone-to-bone or soft tissue-to-bone (implantable)']
+"Kit, Test,Alpha-Fetoprotein For Testicular Cancer",['82105'],"['Alpha-fetoprotein, serum']"
+Hepatitis A Test (Antibody And Igm Antibody),"['86708', '86709']","['Hep a antibody, total', 'Hep a antibody, igm']"
+"System, Test, Automated, Antimicrobial Susceptibility, Short Incubation",['87181'],"['Microbe susceptible, diffuse']"
+"Bone Grafting Material, For Dental Bone Repair","['D4263', 'D7953', 'D6104']","[None, None, None]"
+Home Uterine Activity Monitor,['S9001'],['Home uterine monitor with or without associated nursing services']
+Prostate-Specific Antigen (Psa) For Management Of Prostate Cancers,"['84153', 'G0103']","['Assay of psa, total', 'Prostate cancer screening; prostate specific antigen test (psa)']"
+"Test, Epithelial Ovarian Tumor-Associated Antigen (Ca125)",['86304'],"['Immunoassay, tumor, ca 125']"
+"Intervertebral Fusion Device With Bone Graft, Lumbar","['22558', '22851']","['Lumbar spine fusion', 'Apply spine prosth device']"
+Cyclosporine,['80158'],['Assay of cyclosporine']
+"Enzyme Immunoassay, Tracrolimus",['80197'],['Assay of tacrolimus']
+Tissue Adhesive For The Topical Approximation Of Skin,"['12001', 'G0168']","['Repair superficial wound(s)', 'Wound closure utilizing tissue adhesive(s) only']"
+Bone Sonometer,"['76977', '77080']","['Us bone density measure', None]"
+"Full Field Digital, System, X-Ray, Mammographic","['G0202', 'G0204', 'G0206']","['Screening mammography, bilateral (2-view study of each breast), including computer-aided detection (cad) when performedTerminated December 31, 2017.', 'Diagnostic mammography, including computer-aided detection (cad) when performed; bilateralTerminated December 31, 2017.', 'Diagnostic mammography, including computer-aided detection (cad) when performed; unilateralTerminated December 31, 2017.']"
